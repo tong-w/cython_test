@@ -1,6 +1,7 @@
 def main():
     print("Hello from cython-test!")
-    print("branch drom b1")
+    print("new message from b1")
+    print("branch from main")
 
 
 if __name__ == "__main__":
